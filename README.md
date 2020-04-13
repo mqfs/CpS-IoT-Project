@@ -1,2 +1,2 @@
 # CpS-IoT-Project
-This is the project of CpS-IoT course about leader eclection.
+This is the project of CpS-IoT course about leader eclection using Arduino boards.
